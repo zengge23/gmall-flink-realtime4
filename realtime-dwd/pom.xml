@@ -1,0 +1,32 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.atguigu</groupId>
+        <artifactId>gmall-flink-realtime4</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <artifactId>realtime-dwd</artifactId>
+    <packaging>pom</packaging>
+    <name>Archetype - realtime-dwd</name>
+    <url>http://maven.apache.org</url>
+    <modules>
+        <module>realtime-dwd-base-log</module>
+        <module>realtime-dwd-interaction-comment-info</module>
+        <module>realtime-dwd-trade-cart-add</module>
+        <module>realtime-dwd-trade-order-detail</module>
+        <module>realtime-dwd-trade-order-cancel-detail</module>
+        <module>realtime-dwd-trade-order-pay-suc-detail</module>
+        <module>realtime-dwd-base-db</module>
+        <module>realtime-dwd-trade-order-refund</module>
+    </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.atguigu</groupId>
+            <artifactId>realtime-common</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
+</project>

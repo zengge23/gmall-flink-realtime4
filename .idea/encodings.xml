@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/realtime-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dim/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dim/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dwd/realtime-dwd-base-db/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dwd/realtime-dwd-base-db/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dwd/realtime-dwd-base-log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dwd/realtime-dwd-base-log/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dwd/realtime-dwd-interaction-comment-info/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dwd/realtime-dwd-interaction-comment-info/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dwd/realtime-dwd-trade-cart-add/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dwd/realtime-dwd-trade-cart-add/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dwd/realtime-dwd-trade-order-cancel-detail/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dwd/realtime-dwd-trade-order-cancel-detail/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dwd/realtime-dwd-trade-order-detail/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dwd/realtime-dwd-trade-order-detail/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dwd/realtime-dwd-trade-order-pay-suc-detail/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dwd/realtime-dwd-trade-order-pay-suc-detail/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dwd/realtime-dwd-trade-order-refund/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dwd/realtime-dwd-trade-order-refund/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dwd/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dwd/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dws/realtime-dws-trade-cart-add-uu-window/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dws/realtime-dws-trade-cart-add-uu-window/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dws/realtime-dws-trade-order-window/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dws/realtime-dws-trade-order-window/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dws/realtime-dws-trade-payment-suc-window/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dws/realtime-dws-trade-payment-suc-window/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dws/realtime-dws-trade-province-order-window/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dws/realtime-dws-trade-province-order-window/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dws/realtime-dws-trade-sku-order-window/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dws/realtime-dws-trade-sku-order-window/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dws/realtime-dws-trade-trademark-category-user-refund-window/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dws/realtime-dws-trade-trademark-category-user-refund-window/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dws/realtime-dws-traffic-home-detail-page-view-window/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dws/realtime-dws-traffic-home-detail-page-view-window/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dws/realtime-dws-traffic-source-keyword-page-view-window/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dws/realtime-dws-traffic-source-keyword-page-view-window/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dws/realtime-dws-traffic-vc-ch-ar-is_new-page-view-window/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dws/realtime-dws-traffic-vc-ch-ar-is_new-page-view-window/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dws/realtime-dws-user-user-login-window/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dws/realtime-dws-user-user-login-window/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dws/realtime-dws-user-user-register-window/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dws/realtime-dws-user-user-register-window/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dws/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/realtime-dws/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

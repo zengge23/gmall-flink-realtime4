@@ -1,0 +1,22 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.atguigu</groupId>
+        <artifactId>gmall-flink-realtime4</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <artifactId>realtime-dim</artifactId>
+    <name>Archetype - realtime-dim</name>
+    <url>http://maven.apache.org</url>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.atguigu</groupId>
+            <artifactId>realtime-common</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
+
+</project>

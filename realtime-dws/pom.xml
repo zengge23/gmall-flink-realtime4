@@ -1,0 +1,35 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.atguigu</groupId>
+        <artifactId>gmall-flink-realtime4</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <artifactId>realtime-dws</artifactId>
+    <packaging>pom</packaging>
+    <name>Archetype - realtime-dws</name>
+    <url>http://maven.apache.org</url>
+    <modules>
+        <module>realtime-dws-traffic-source-keyword-page-view-window</module>
+        <module>realtime-dws-traffic-vc-ch-ar-is_new-page-view-window</module>
+        <module>realtime-dws-traffic-home-detail-page-view-window</module>
+        <module>realtime-dws-user-user-login-window</module>
+        <module>realtime-dws-user-user-register-window</module>
+        <module>realtime-dws-trade-cart-add-uu-window</module>
+        <module>realtime-dws-trade-sku-order-window</module>
+        <module>realtime-dws-trade-province-order-window</module>
+        <module>realtime-dws-trade-payment-suc-window</module>
+        <module>realtime-dws-trade-order-window</module>
+        <module>realtime-dws-trade-trademark-category-user-refund-window</module>
+    </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.atguigu</groupId>
+            <artifactId>realtime-common</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
+</project>
